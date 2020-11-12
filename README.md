@@ -1,6 +1,6 @@
 # Docker Munin Node
 
-This is a simple image that runs Munin node on an Alpine base.
+This is a simple image that runs Munin node on a Ubuntu base.
 
 ## Run
 ```
