@@ -1,7 +1,5 @@
 FROM ubuntu:18.04
 
-LABEL maintainer="***REMOVED***"
-
 EXPOSE 4949
 
 RUN apt-get update && apt-get install -y \
